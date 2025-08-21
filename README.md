@@ -40,7 +40,7 @@
 
 ## 🏆 Logros destacados
 
-### Campeón nacional — **ELEGIS-TECH³**  
+### Equipo Ganador del 3er lugar — **ELEGIS-TECH³**  
 **Proyecto:** *LegisConnect: Vinculación Ciudadano-Legislador*  
 Red social para conectar a legisladores con sus comunidades. Permite a los ciudadanos **enviar propuestas**, **debatir temas** y **participar activamente** en la creación de leyes.  
 **Stack:** React, Next.js, Tailwind CSS · **Deploy:** Vercel
