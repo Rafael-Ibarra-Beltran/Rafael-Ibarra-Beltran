@@ -1,97 +1,41 @@
-# ¡Hola, soy Rafael Ibarra! 👋
+### ¡Hola, soy Rafael Ibarra! 👋
 
-> Desarrollador **full-stack** (JS/TS) y estudiante de último año de Ingeniería en Software (UABC). Me gusta diseñar y construir productos web bien pensados, del **frontend** al **backend** y **DevOps**.
+Soy estudiante de último semestre de Ingeniería en Software en la UABC. Empecé haciendo desarrollo full-stack, pero ahora mi foco principal está en la automatización, DevOps y Cloud Computing. Me gusta construir la infraestructura detrás de los productos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--ibarra-blue)](https://www.linkedin.com/in/rafael-ibarra/)
-[![Email](https://img.shields.io/badge/Email-ibarrabeltran.rafael%40gmail.com-informational)](mailto:ibarrabeltran.rafael@gmail.com)
-![Location](https://img.shields.io/badge/Tijuana-BC%2C%20MX-forestgreen)
+🚀 **Un poco sobre mí**
 
----
+- A un paso de egresar (último semestre).
+- Recientemente terminé una pasantía de 6 meses en ArkusNexus, donde le agarré el gusto a armar pipelines de CI/CD, automatizar despliegues y gestionar bases de datos.
+- Últimamente estoy escribiendo mucho código en **Python** y aprendiendo **Go**.
+- Explorando y levantando servicios en AWS y Google Cloud.
 
-## 🚀 Sobre mí
-- Último año de **Ingeniería en Software (UABC)**.
-- Experiencia práctica en **web full-stack** y **bases de datos relacionales**.
-- Me caracterizo por **aprender rápido**, **código limpio** y trabajo en **equipos ágiles (Scrum/Kanban)**.
-- Actualmente: **Becario de Ingeniería en Software en ArkusNexus** (Jul 2025 – presente).
+🛠️ **Stack y Herramientas**
 
----
+- **Cloud & DevOps:** Docker, Docker Compose, Nginx, integraciones CI/CD, nociones de AWS y Google Cloud.
+- **Lenguaje principal actual:** Python, Go.
+- **Background Full-Stack:** JavaScript/TypeScript, Java, Node.js, React/Next.js.
+- **Bases de Datos:** PostgreSQL, MySQL.
 
-## 🛠️ Tech Stack
+🏆 **Hackatones**
 
-**Lenguajes**
-- JavaScript / TypeScript, Java, Python, C, SQL
+- 🥈 **2.º lugar — Hackatón Crevolution 2025 (CDMX):** Construimos *AxoCred*, una demo B2B de gestión crediticia. Me encargué del backend implementando Server-Sent Events (SSE) para streaming en tiempo real y la orquestación del modelo de Gemini.
+- 🥉 **3er lugar — ELEGIS-TECH³:** Co-creador de *LegisConnect*, una plataforma para vincular ciudadanos con legisladores.
 
-**Frontend**
-- React, Next.js (App Router), Tailwind CSS, Radix UI, shadcn/ui
+📦 **Lo que estoy construyendo**
 
-**Backend**
-- Node.js, Express, API Routes (Next.js)
+- ☁️ **Scirely (GCP / Vertex AI):** Una plataforma que genera roadmaps de aprendizaje personalizados con IA. Lo diseñé con arquitectura en la nube usando Cloud Run, Cloud SQL (PostgreSQL) y Cloud Storage.
+- 🐳 **[GreenPlate](https://github.com/Rafael-Ibarra-Beltran/GreenPlate):** App web full-stack de un restaurante. Destaca por su infraestructura empaquetada con Docker y Docker Compose, usando Nginx como proxy inverso.
+- 🐍 **[CatchingTrash](https://github.com/Rafael-Ibarra-Beltran/CatchingTrash):** Un juego arcade local de 2 jugadores contrarreloj para clasificar basura, desarrollado puramente en Python con Pygame.
 
-**Bases de datos**
-- MySQL, PostgreSQL (Supabase), RLS (Row-Level Security)
+📜 **Certificaciones**
 
-**DevOps**
-- Docker & Docker Compose, Nginx, Vercel (CI/CD)
+- AWS Academy Cloud Architecting
+- Preparing for Google Cloud Certification
+- Python (Platzi)
+- JavaScript Algorithms and Data Structures (freeCodeCamp)
 
-**Otros**
-- Git/GitHub, Linux, integraciones con IA, flujos **n8n**, **MCP**
+📫 **Contacto**
 
----
-
-## 🏆 Logros destacados
-
-### Equipo Ganador del 3er lugar — **ELEGIS-TECH³**  
-**Proyecto:** *LegisConnect: Vinculación Ciudadano-Legislador*  
-Red social para conectar a legisladores con sus comunidades. Permite a los ciudadanos **enviar propuestas**, **debatir temas** y **participar activamente** en la creación de leyes.  
-**Stack:** React, Next.js, Tailwind CSS · **Deploy:** Vercel
-
----
-
-## 📦 Proyectos seleccionados
-
-- **GreenPlate** — Aplicación web full-stack para un restaurante (sitio + panel admin).  
-  *Node.js, Express, MySQL, Nginx, Docker*  
-  Repo: https://github.com/Rafael-Ibarra-Beltran/GreenPlate
-
-- **CatchingTrash** — Juego arcade 2-jugadores para clasificar basura en tiempo límite.  
-  *Python, Pygame*  
-  Repo: https://github.com/Rafael-Ibarra-Beltran/CatchingTrash
-
-- **LibreStock** — Sistema de catálogo e inventario para librería.  
-  *PHP, MySQL*  
-  Repo: https://github.com/Rafael-Ibarra-Beltran/LibreStock
-
-- **Predator-Prey** — Simulación basada en agentes (NetLogo) de depredadores y presas.  
-  Repo: https://github.com/Rafael-Ibarra-Beltran/Predator-Prey
-
-- **SummaryQ** — App de estudio con **flashcards** y **repaso espaciado**, estadísticas y compartir mazos.  
-  *Next.js, TypeScript, Supabase* (repositorio privado/prototipo)
-
-- **CelebrateGraduaciones** — E-commerce en desarrollo para renta/venta de artículos de graduación con panel admin (inventario, pedidos, clientes) y control de acceso.  
-  *Next.js, TypeScript, Supabase, Tailwind* (repositorio privado/prototipo)
-
-> 🔖 Más proyectos en la pestaña **Repositories**.
-
----
-
-## 🎓 Educación
-- **UABC — Ingeniería en Software** *(Ago 2021 – Jul 2026)*
-- **CBTIS 116 — Técnico en Programación** *(Ago 2016 – Ago 2019)*
-
----
-
-## 📜 Certificaciones
-- **JavaScript Algorithms and Data Structures — freeCodeCamp** *(Jun 2025)*
-- **Responsive Web Design — freeCodeCamp** *(May 2025)*
-- **Cloud Architecting — AWS Academy** *(Abr 2025)*
-- **Curso de Python — Platzi** *(Jul 2024)*
-- **Curso Profesional de Git y GitHub — Platzi** *(Ene 2023)*
-- **Ciencia de Datos — Universidad de los Andes** *(Nov 2023)*
-- **Preparing for Google Cloud Certification — Google Cloud** *(Jul 2024)*
-
----
-
-## 🤝 ¿Colaboramos?
-- Me interesa colaborar en **productos web**, **SaaS**, **RAG/IA aplicada** y **sistemas backend**.
-- Escríbeme: **ibarrabeltran.rafael@gmail.com**  
-- Conecta conmigo en **LinkedIn**: https://www.linkedin.com/in/rafael-ibarra/
+Si quieres hablar sobre Cloud, Go, Python o integraciones con IA, escríbeme:
+- **Email:** ibarrabeltran.rafael@gmail.com
+- **LinkedIn:** [rafael-ibarra](https://www.linkedin.com/in/rafael-ibarra/)
