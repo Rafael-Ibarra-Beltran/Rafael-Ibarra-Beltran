@@ -39,3 +39,4 @@ Soy estudiante de último semestre de Ingeniería en Software en la UABC. Empec�
 Si quieres hablar sobre Cloud, Go, Python o integraciones con IA, escríbeme:
 - **Email:** ibarrabeltran.rafael@gmail.com
 - **LinkedIn:** [rafael-ibarra](https://www.linkedin.com/in/rafael-ibarra/)
+- **Web personal:** [rafaelibarra.me](https://rafaelibarra.me/)
