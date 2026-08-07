@@ -1,42 +1,46 @@
-### ¡Hola, soy Rafael Ibarra! 👋
+# 👋 Hola, soy Rafael Ibarra!
 
-Soy estudiante de último semestre de Ingeniería en Software en la UABC. Empecé haciendo desarrollo full-stack, pero ahora mi foco principal está en la automatización, DevOps y Cloud Computing. Me gusta construir la infraestructura detrás de los productos.
+Soy un **Ingeniero en Software egresado** (UABC) y **Junior Software Developer**. Mi interés principal radica en el desarrollo Backend y la automatización (DevOps/Cloud). Estoy buscando mi primer gran paso profesional, donde pueda aplicar lo que he aprendido y crecer junto a un equipo técnico.
 
-🚀 **Un poco sobre mí**
+🚀 **Mi Enfoque Actual**
 
-- A un paso de egresar (último semestre).
-- Recientemente terminé una pasantía de 6 meses en ArkusNexus, donde le agarré el gusto a armar pipelines de CI/CD, automatizar despliegues y gestionar bases de datos.
-- Últimamente estoy escribiendo mucho código en **Python** y aprendiendo **Go**.
-- Explorando y levantando servicios en AWS y Google Cloud.
+No busco ser un experto en todo, pero sí ofrezco:
+- **Bases sólidas:** Conocimiento en estructuras de datos, algoritmos y metodologías ágiles.
+- **Práctica real:** Experiencia en pasantías y proyectos personales con Node.js, Python y PostgreSQL.
+- **Actitud de aprendizaje:** Curiosidad, proactividad y compromiso con el código limpio y mantenible.
+- **Interés en DevOps/Cloud:** Nociones prácticas de Docker, CI/CD y servicios básicos de nube.
 
-🛠️ **Stack y Herramientas**
+🛠️ **Tecnologías con las que he trabajado**
 
-- **Cloud & DevOps:** Docker, Docker Compose, Nginx, integraciones CI/CD, nociones de AWS y Google Cloud.
-- **Lenguaje principal actual:** Python, Go.
-- **Background Full-Stack:** JavaScript/TypeScript, Java, Node.js, React/Next.js.
-- **Bases de Datos:** PostgreSQL, MySQL.
+- **Backend:** Node.js, Python, REST APIs
+- **DevOps & Herramientas:** Git, Docker, Linux, CI/CD básico
+- **Bases de Datos:** PostgreSQL, MySQL
+- **Frontend:** React, Next.js (conocimiento básico para integración)
 
-🏆 **Hackatones**
+🏆 **Experiencia Destacada**
 
-- 🥈 **2.º lugar — Hackatón Crevolution 2025 (CDMX):** Construimos *AxoCred*, una demo B2B de gestión crediticia. Me encargué del backend implementando Server-Sent Events (SSE) para streaming en tiempo real y la orquestación del modelo de Gemini.
-- 🥉 **3er lugar — ELEGIS-TECH³:** Co-creador de *LegisConnect*, una plataforma para vincular ciudadanos con legisladores.
+- **Pasantías:** Desarrollo backend y full-stack en entornos reales con la Agencia Digital de Baja California y ArkusNexus.
+- **Hackatón:** 2.º Lugar Nacional en Crevolution 2025 (Proyecto AxoCred), trabajando en equipo con IA y APIs.
 
-📦 **Lo que estoy construyendo**
+📦 **Proyectos Personales y Académicos**
 
-- ☁️ **Scirely (GCP / Vertex AI):** Una plataforma que genera roadmaps de aprendizaje personalizados con IA. Lo diseñé con arquitectura en la nube usando Cloud Run, Cloud SQL (PostgreSQL) y Cloud Storage.
-- 🐳 **[GreenPlate](https://github.com/Rafael-Ibarra-Beltran/GreenPlate):** App web full-stack de un restaurante. Destaca por su infraestructura empaquetada con Docker y Docker Compose, usando Nginx como proxy inverso.
-- 🐍 **[CatchingTrash](https://github.com/Rafael-Ibarra-Beltran/CatchingTrash):** Un juego arcade local de 2 jugadores contrarreloj para clasificar basura, desarrollado puramente en Python con Pygame.
+Estos proyectos me han permitido practicar y profundizar en mis áreas de interés:
+- **AxoCred:** Backend con Server-Sent Events y chatbot con IA (Hackatón).
+- **Scirely:** Aplicación web con Next.js y PostgreSQL para seguimiento de aprendizaje.
+- **LlamaDeck:** Herramienta local para gestionar modelos de IA con Python.
 
-📜 **Certificaciones**
+📜 **Certificaciones y Aprendizaje Continuo**
 
+He completado cursos y certificaciones en:
 - AWS Academy Cloud Architecting
-- Preparing for Google Cloud Certification
-- Python (Platzi)
+- Python (freeCodeCamp)
 - JavaScript Algorithms and Data Structures (freeCodeCamp)
+- Claude Code in Action (Anthropic)
+- Git and Github (Platzi)
 
 📫 **Contacto**
 
-Si quieres hablar sobre Cloud, Go, Python o integraciones con IA, escríbeme:
+Estoy abierto a oportunidades Junior (Desarrollo Backend/DevOps) y colaboraciones. ¡Me encantaría conectar!
 - **Email:** ibarrabeltran.rafael@gmail.com
-- **LinkedIn:** [rafael-ibarra](https://www.linkedin.com/in/rafael-ibarra/)
-- **Web personal:** [rafaelibarra.me](https://rafaelibarra.me/)
+- **LinkedIn:** [linkedin.com/in/rafael-ibarra](https://www.linkedin.com/in/rafael-ibarra)
+- **GitHub:** [github.com/Rafael-Ibarra-Beltran](https://github.com/Rafael-Ibarra-Beltran)
